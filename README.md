@@ -1,24 +1,11 @@
-# README
+# Little Phoenix
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+TITLE: Little Phoenix
 
-Things you may want to cover:
+PROGRESS: Not complete / WIP
 
-* Ruby version
+THEME: A Ruby on Rails app that catalogs purchases and sold items
 
-* System dependencies
+IN DEPTH: I wanted to build a small app for my fiancee. She sells products to her friends back home and was using an excel spreadsheet. It was very hard to read entries on a mobile device, so I wanted to create a better solution for that.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+TOOLS: Ruby on Rails, Postgresql, Ruby 2.7.0
